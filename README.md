@@ -66,8 +66,8 @@
 pkg install git -y
 git clone https://github.com/pawankumarlabs/crave-install-termux-manager.git
 cd crave-install-termux-manager
-chmod +x crave-installer-termux.sh
-./crave-installer-termux.sh
+chmod +x crave-termux-installer.sh
+./crave-termux-installer.sh
 ```
 
 Then select **`[4] Full Installation`** from the menu.
