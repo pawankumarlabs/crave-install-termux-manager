@@ -236,13 +236,3 @@ Made with ❤️ for the Android custom ROM community
 - Sufficient storage space
 
 Root access is not required.
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/pawankumarlabs/crave-install-termux-manager.git
-cd crave-install-termux-manager
-chmod +x crave-installer-termux.sh
-./crave-installer-termux.sh
