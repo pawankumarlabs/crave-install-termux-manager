@@ -1,4 +1,4 @@
-# Crave Build Manager for Termux
+# Crave Installer Manager for Termux
 
 <div align="center">
 
