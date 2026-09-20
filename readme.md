@@ -35,4 +35,4 @@ Clone the repository:
 git clone https://github.com/pawankumarlabs/crave-install-termux-manager.git
 cd crave-install-termux-manager
 chmod +x crave-installer-termux.sh
-bash crave-installer-termux.sh
+./crave-installer-termux.sh
