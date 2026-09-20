@@ -233,6 +233,4 @@ Pull requests are welcome! If you find a bug or want to add a new feature:
 Made with ❤️ for the Android custom ROM community
 
 **[Report a Bug](https://github.com/pawankumarlabs/crave-install-termux-manager/issues)** · **[Request a Feature](https://github.com/pawankumarlabs/crave-install-termux-manager/issues)**- Internet connection
-- Sufficient storage space
 
-Root access is not required.
