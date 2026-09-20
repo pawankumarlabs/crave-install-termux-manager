@@ -1,39 +1,38 @@
-Crave Installer Termux
+# Crave Installer Termux
 
-A simple Termux installer and manager for Crave using proot-distro Ubuntu.
+A simple and powerful manager for installing and managing Crave on Android through Termux and Ubuntu Proot-Distro.
 
-Features
+## Overview
 
-- Install Crave
-- Reinstall Crave
+Crave Installer Termux simplifies the process of installing and managing Crave on ARM64 Android devices.
+
+The project runs Crave inside an Ubuntu environment managed through Proot-Distro and provides a simple terminal-based manager for handling the Crave installation.
+
+## Features
+
+- Install Crave automatically
+- Reinstall Crave when needed
 - Update Crave
 - Uninstall Crave
-- System status
+- Check installation status
+- Interactive terminal-based UI
 - Automatic Ubuntu setup
-- Termux "crave" command support
-- ARM64 support
 
-Install
+## Requirements
 
+- Android device with ARM64 architecture
+- Termux
+- Internet connection
+- Sufficient storage space
+
+Root access is not required.
+
+## Installation
+
+Clone the repository:
+
+```bash
 git clone https://github.com/pawankumarlabs/crave-install-termux-manager.git
 cd crave-install-termux-manager
 chmod +x crave-installer-termux.sh
-./crave-installer-termux.sh
-
-Usage
-
-After installation:
-
-crave -c crave.conf
-
-crave devspace
-
-Requirements
-
-- Termux
-- Android ARM64 device
-- Internet connection
-
-License
-
-MIT
+bash crave-installer-termux.sh
